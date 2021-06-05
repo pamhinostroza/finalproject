@@ -1,0 +1,23 @@
+.whitefont {
+  color: azure;
+}
+
+.blackbackground {
+  background-color: black;
+}
+
+.blackfont {
+  color: black;
+}
+
+.largeindent {
+  text-indent: 100;
+}
+
+.leftalign {
+  text-align: left;
+}
+
+.rightalign {
+  text-align: right;
+}
